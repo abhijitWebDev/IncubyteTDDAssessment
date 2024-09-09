@@ -1,4 +1,4 @@
-Sure, here's a sample `README.md` file for your project that includes information about the `StringCalculator.js` file and its functionality:
+
 
 ```markdown
 # String Calculator
