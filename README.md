@@ -91,7 +91,7 @@ try {
   console.log(calculator.subtract());
 } catch (error) {
   console.error(error.message); 
-
+}
 # multiply
 try {
   console.log(calculator.multiply());
@@ -103,7 +103,8 @@ try {
 try {
   console.log(calculator.divide());
 } catch (error) {
-  console.error(error.message); 
+  console.error(error.message);
+} 
 ```
 
 ## TDD testing
